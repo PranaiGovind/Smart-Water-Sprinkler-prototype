@@ -1,0 +1,2 @@
+# Smart-Water-Sprinkler-prototype
+This project aims to implement how to configure lawn Sprinkle and monitoring the water level by using a sensor with IoT registration server in order to Design a Smart Home Garden. The main objective of this project is to optimize water usage during gardening and remotely maintain the garden. The model (topology) is planned to be implemented Cisco Packet Tracer 7.3.1.
